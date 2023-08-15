@@ -1,6 +1,6 @@
 ### Sobre Mim 🐧: 
 
-#### Um jovem profissionaldedicado em início de carreira, com montage, manutenção e adminitração de redes, com conhecimentos abrangentes de fundamentos em hardware, diagnósticos de problemas e protocolos de rede. Habilidade em linguagemde programação e conhecimento iniciais com desenvolvimento web. Comprometido com a excelência técnica, resolução de desafios e contribuição efetiva em ambiente dinâmico de tecnologia.
+##### Um jovem profissionaldedicado em início de carreira, com montage, manutenção e adminitração de redes, com conhecimentos abrangentes de fundamentos em hardware, diagnósticos de problemas e protocolos de rede. Habilidade em linguagemde programação e conhecimento iniciais com desenvolvimento web. Comprometido com a excelência técnica, resolução de desafios e contribuição efetiva em ambiente dinâmico de tecnologia.
 
 
 
