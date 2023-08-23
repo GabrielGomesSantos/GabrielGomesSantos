@@ -33,5 +33,5 @@ Click buttons above to issue new gamepad input, refresh this page to view newst 
 </details>
 
 <details><summary>Statistics of this game so far</summary>
-
+https://webgradients.com/
 </details>
