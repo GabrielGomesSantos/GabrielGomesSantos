@@ -1,4 +1,4 @@
-### Sobre Mim 🐧: 
+### Gabriel Gomes🐧: 
 <details>
 <summary>About Me</summary>
 <p></p>
