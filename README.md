@@ -28,11 +28,11 @@
 
 Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
 
-<details><summary>About this game section</summary>
-  
-  
+<details>
+<summary>About this game section</summary>  
 </details>
 
-<details><summary>Statistics of this game so far</summary>
-https://webgradients.com/
+<details>
+<summary>Statistics of this game so far</summary>
+<!https://webgradients.com/>
 </details>
