@@ -28,15 +28,3 @@
 <img height="100%" width="400px" border-radius= "90px" src="https://github-readme-stats.vercel.app/api?username=GabrielGomesSantos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>  
 <br />
-
-Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
-
-<details>
-<summary>Projetos Destaques</summary>  
-</details>
-
-<!-- 
-<details>
-<summary>Statistics of this game so far</summary>
-<!https://webgradients.com/>
-> </details> -->
