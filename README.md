@@ -12,10 +12,9 @@ Sou um jovem profissional em início de carreira com experiência prática em **
 
 <div style="display: inline_block">
   <img align="center" alt="PHP" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img align="center" alt="Laravel" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
+  <img align="center" alt="Laravel" height="30" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"/>
   <img align="center" alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"/>
-  <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"/>
 </div>
 
 <br/>
