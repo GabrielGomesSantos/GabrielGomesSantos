@@ -1,30 +1,63 @@
-## Gabriel Gomes🐧: 
+## 👨‍💻 Gabriel Gomes 🐧
 
-<p></p>
-<p>Um jovem profissionaldedicado em início de carreira, com montage, manutenção e adminitração de redes, com conhecimentos abrangentes de fundamentos em hardware, diagnósticos de problemas e protocolos de rede. Habilidade em linguagemde programação e conhecimento iniciais com desenvolvimento web. Comprometido com a excelência técnica, resolução de desafios e contribuição efetiva em ambiente dinâmico de tecnologia. </p> 
+**Desenvolvedor Back-End Júnior | Técnico em Informática | Foco em Laravel e PHP**
 
+Sou um jovem profissional em início de carreira com experiência prática em **desenvolvimento back-end com PHP/Laravel**, além de atuação em **projetos reais** nas áreas jurídica e educacional. Também possuo formação técnica em **montagem e manutenção de computadores**, além de conhecimentos sólidos em **redes**, hardware e sistemas Linux. Tenho facilidade para trabalhar em equipe, resolver problemas técnicos e aprender de forma contínua em ambientes dinâmicos de tecnologia.
 
+---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
+### 🚀 Tecnologias e Ferramentas
 
-### Languages:
+**Linguagens & Frameworks:**
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<i class="devicon-cplusplus-plain"></i>
-</br>
-### Tools:
+<div style="display: inline_block">
+  <img align="center" alt="PHP" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img align="center" alt="Laravel" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
+  <img align="center" alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"/>
+  <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"/>
+</div>
 
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Portugol Studio" width="26px" src="https://dgadelha.github.io/Portugol-Webstudio/favicon.ico" />
 <br/>
-</br>
+
+**Banco de Dados & Infraestrutura:**
+
+<div style="display: inline_block">
+  <img align="center" alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img align="center" alt="Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+</div>
+
+<br/>
+
+**Ferramentas & Versionamento:**
+
+<div style="display: inline_block">
+  <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="GitHub" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img align="center" alt="VSCode" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+</div>
+
+---
+
+### 📌 Projetos em Destaque
+
+- **SISMAN** – Sistema para controle de mandados judiciais e entrega de medicamentos, com foco em estabilidade e colaboração entre equipes.
+- **Digital-Saúde** – Solução desenvolvida em hackathon para a área da saúde.
+- **App Escolar (Laravel)** – Sistema em desenvolvimento para gestão financeira de eventos escolares.
+
+---
+
+### 📊 Estatísticas GitHub
+
 <div>
-<!Grafico de estatisticas>
-<a href="https://github.com/GabrielGomesSantos">
-<img height="100%" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGomesSantos&layout=compact&langs_count=7&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img height="100%" width="400px" border-radius= "90px" src="https://github-readme-stats.vercel.app/api?username=GabrielGomesSantos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-</div>  
-<br />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGomesSantos&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielGomesSantos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</div>
+
+---
+
+### 📫 Contato
+
+📍 Juiz de Fora, MG  
+📧 gabrielgomessantos.ti@gmail.com  
