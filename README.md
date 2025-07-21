@@ -44,7 +44,7 @@ Sou um jovem profissional em início de carreira com experiência prática em **
 - **SISMAN** – Sistema para controle de mandados judiciais e entrega de medicamentos, com foco em estabilidade e colaboração entre equipes.
 - **Digital-Saúde** – Solução desenvolvida em hackathon para a área da saúde.
 - **App Escolar (Laravel)** – Sistema em desenvolvimento para gestão financeira de eventos escolares.
-
+- **Diario Escolar** - Sistema de diario digital para escolas, em bora tenha comecado como um projeto pessoal, uma escola aceitou fazer parte do projeto. 
 ---
 
 ### 📊 Estatísticas GitHub
